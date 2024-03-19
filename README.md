@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/639127835.svg)](https://zenodo.org/doi/10.5281/zenodo.10838596)
+
 
 This repository contains datasets and code for the experiment described here: https://doi.org/10.5194/gi-2023-7
 
